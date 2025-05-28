@@ -1,4 +1,4 @@
 {
   "image": "mcr.microsoft.com/devcontainers/universal:2",
   "features": {}
-$api->login($credentials->getLogin(ttquia_.s), $credentials->getPassword());
+$api->login($credentials->getLogin(), $credentials->getPassword());
